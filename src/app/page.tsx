@@ -8,32 +8,68 @@ import Footer from "./components/Footer"
 
 function App () {
   return(
-    <main className="relative flex flex-col items-center justify-center bg-background min-h-screen overflow-hidden">
+    <main className="relative flex flex-col items-center justify-center min-h-screen overflow-hidden">
       <Nav/>
 
-      <section id="Hero" className="min-h-screen w-full flex items-center justify-center">
+      <section id="Hero" 
+              className="min-h-screen w-full flex items-center justify-center"
+      >
         <Hero/>
+
+        <div className="wave"></div>
+        <div className="wave"></div>
+        <div className="wave"></div>
       </section>
 
-      <section id="About" className="bg-red-600 min-h-screen w-full flex items-center justify-center">
+      <section id="About" 
+              className="min-h-screen w-full flex items-center justify-center">
+
         <About/>
+
+        <div className="wave"></div>
+        <div className="wave"></div>
+        <div className="wave"></div>
       </section>
 
-      <section id="Exp" className="bg-blue-600 min-h-screen w-full flex items-center justify-center">
+      <section id="Exp" 
+              className="min-h-screen w-full flex items-center justify-center">
+
         <Exp/>
+
+        <div className="wave"></div>
+        <div className="wave"></div>
+        <div className="wave"></div>
       </section>
 
-      <section id="Resume" className="bg-green-600 min-h-screen w-full flex items-center justify-center">
+      <section id="Resume" 
+              className="min-h-screen w-full flex items-center justify-center">
+
         <Resume/>
+
+        <div className="wave"></div>
+        <div className="wave"></div>
+        <div className="wave"></div>
       </section>
 
-      <section id="Contact" className="bg-purple-600 min-h-screen w-full flex items-center justify-center">
+      <section id="Contact" 
+              className="min-h-screen w-full flex items-center justify-center">
+
         <Contact/>
+
+        <div className="wave"></div>
+        <div className="wave"></div>
+        <div className="wave"></div>
       </section>
 
 
-      <footer id="Footer" className="bg-yellow-200 w-full h-[60px] flex items-center justify-center">
+      <footer id="Footer" 
+              className="w-full h-[60px] flex items-center justify-center">
+
         <Footer/>
+
+        <div className="wave"></div>
+        <div className="wave"></div>
+        <div className="wave"></div>
       </footer>
     </main>
   )
