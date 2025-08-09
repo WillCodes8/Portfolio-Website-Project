@@ -15,12 +15,12 @@ function About () {
             id="right-about" 
             className="w-1/2 flex items-center justify-center h-full">
                 
-                <h1 className="font-bold">I'm an Information Science student at the 
+                <h1 className="font-bold">I am an Information Science student at the 
                     University of Maryland with a passion for technology, data, and innovative problem-solving. 
                     My academic journey has equipped me with skills in object-oriented programming, database design, 
                     technology infrastructure, statistical analysis, and dynamic web application development.<br/> <br/>
 
-                    Currently, I'm a Junior Analyst at Process For The Future, where I combine 
+                    Currently, I am a Junior Analyst at Process For The Future, where I combine 
                     data-driven research and modern digital strategies to support business development in 
                     the government contracting sector. I analyze procurement trends, identify contract 
                     opportunities, and leverage AI to craft targeted content strategies that enhance 
