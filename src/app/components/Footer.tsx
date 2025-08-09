@@ -1,6 +1,6 @@
 function Footer () {
     return(
-        <div className="text-text">
+        <div className="text-textdark">
             <h1>Footer</h1>
         </div>
     )

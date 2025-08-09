@@ -14,6 +14,7 @@ function App () {
       <section id="Hero" 
               className="min-h-screen w-full flex items-center justify-center"
       >
+
         <Hero/>
 
         <div className="wave"></div>
@@ -22,7 +23,7 @@ function App () {
       </section>
 
       <section id="About" 
-              className="min-h-screen w-full flex items-center justify-center">
+              className="min-h-screen w-full flex items-start pt-[60px]">
 
         <About/>
 
@@ -32,7 +33,7 @@ function App () {
       </section>
 
       <section id="Exp" 
-              className="min-h-screen w-full flex items-center justify-center">
+              className="min-h-screen w-full flex items-start justify-center pt-[60px]">
 
         <Exp/>
 
@@ -42,7 +43,7 @@ function App () {
       </section>
 
       <section id="Resume" 
-              className="min-h-screen w-full flex items-center justify-center">
+              className="min-h-screen w-full flex items-start justify-center pt-[60px]">
 
         <Resume/>
 
