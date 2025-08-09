@@ -43,7 +43,7 @@ function App () {
       </section>
 
       <section id="Resume" 
-              className="min-h-screen w-full flex items-start justify-center pt-[60px]">
+              className="min-h-screen w-full flex items-start justify-center pt-[120px]">
 
         <Resume/>
 
@@ -53,7 +53,7 @@ function App () {
       </section>
 
       <section id="Contact" 
-              className="min-h-screen w-full flex items-center justify-center">
+              className="h-[240px] w-full flex items-center justify-center">
 
         <Contact/>
 

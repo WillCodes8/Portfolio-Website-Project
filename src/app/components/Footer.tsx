@@ -1,7 +1,7 @@
 function Footer () {
     return(
         <div className="text-textdark">
-            <h1>Footer</h1>
+            <h1>Last Updated: 8/9/2025</h1>
         </div>
     )
 }

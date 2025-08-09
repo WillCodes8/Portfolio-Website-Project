@@ -7,7 +7,7 @@ function Exp () {
             className="w-1/2 flex items-center justify-center h-full">
 
                 <h1 className="font-bold">
-                    💼 Experience: 
+                    💼 Experience: <br/><br/>
                     Process For The Future - Junior Analyst (Apr 2024 - Present): 
                     Create and schedule AI-generated social media posts highlighting contract wins, 
                     certifications, and industry updates, refining strategy based on performance metrics; 
@@ -15,7 +15,7 @@ function Exp () {
                     and USAspending.gov; research spending patterns and procurement histories; present 
                     actionable insights to senior leadership.  
                         <br/> <br/>
-                    📂 Project Experience  
+                    📂 Project Experience:  <br/><br/>
                     🌦️ Backend Weather Tracker App: Developed Node.js + Express backend with 
                     PostgreSQL integration, EJS-rendered views, and session-based authentication; 
                     integrated Open-Meteo API for real-time weather data; built save, view, and delete 
